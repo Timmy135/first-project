@@ -1,0 +1,27 @@
+*{
+    background-color:green;
+}
+#picture{
+    text-align:center;
+}
+header{
+    
+}
+.red-text {
+        color: red;
+        text-align: center;
+      }
+        
+      h2 {
+        font-family: Lobster, Monospace;
+          border-style: dashed;
+/*           padding: 100px; */
+/*           margin: 100px; */
+          margin-left: 700px;
+          margin-right: 850px;
+      }
+
+      p {
+        font-size: 16px;
+        font-family: Monospace;
+      }
